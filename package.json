@@ -1,0 +1,19 @@
+{
+  "name": "react-wj1gnd",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-wj1gnd",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "recharts": "1.1.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
